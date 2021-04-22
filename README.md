@@ -32,3 +32,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+SPA - Single Page Application
+SSR - Server Side Rendering - getServerSideProps()
+SSG - Static Site Generation - getStaticProps()
+[spa vs ssr](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX1P7-v5DwAhV4D7kGHcoPDL8QFjAAegQIBBAD&url=https%3A%2F%2Fwww.treinaweb.com.br%2Fblog%2Fspa-e-ssr-quais-as-diferencas%2F&usg=AOvVaw1wrAwCCyFe3d1HebfinbbR)
+
+[spa, ssr e ssg](https://willianjusten.com.br/nextjs-gatsby-ou-create-react-app-entendendo-os-conceitos-de-ssr-ssg-e-spa/)
+
+When dealing with crawlers, it is necessary to change the spa strategy to deliver the data on our page to the user as soon as possible.
