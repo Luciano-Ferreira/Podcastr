@@ -41,3 +41,5 @@ SSG - Static Site Generation - getStaticProps()
 [spa, ssr e ssg](https://willianjusten.com.br/nextjs-gatsby-ou-create-react-app-entendendo-os-conceitos-de-ssr-ssg-e-spa/)
 
 When dealing with crawlers, it is necessary to change the spa strategy to deliver the data on our page to the user as soon as possible.
+
+We use the Image components from next/image
