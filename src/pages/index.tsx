@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
+import Head from 'next/head';
 
 import { api } from '../services/api';
 import { convertDurationToTimeString } from '../utils/convertDurationToTimeString';
@@ -34,9 +35,11 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
 
     return (
         <div className={styles.homepage}>
+            <Head>
+                <title>Home | Podcastr</title>
+            </Head>
             <section className={styles.latestEpisodes}>
                 <h2>Últimos lançamentos</h2>
-
                 <ul>
                     {latestEpisodes.map((episode, index) => {
                         return (
