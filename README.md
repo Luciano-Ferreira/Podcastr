@@ -43,3 +43,17 @@ SSG - Static Site Generation - getStaticProps()
 When dealing with crawlers, it is necessary to change the spa strategy to deliver the data on our page to the user as soon as possible.
 
 We use the Image components from next/image
+
+## Development tips :rocket:
+
+- Reponsive
+
+- PWA (next-pwa)
+
+- Dark teme
+
+- Log in
+
+- Deploy
+
+- Electron (Desktop)
