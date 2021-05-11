@@ -2,7 +2,7 @@
   <img src="./public/logo.svg" alt="Podcastr">
 </div>
 
-## technology used
+## Technology used :rocket:
 
 - [axios](https://github.com/axios/axios)
 - [date-fns](https://date-fns.org/)
@@ -15,6 +15,36 @@
 - [vercel](https://vercel.com/dashboard)
 - [my-json-server-fake-api](https://my-json-server.typicode.com/luciano-ferreira/podcastr/)
 
+## How to install
+
+### Prerequisites
+
+Before you begin, you will need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and a package manager [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/). 
+
+### Run aplication
+In your terminal or bash
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Luciano-Ferreira/Podcastr.git
+
+# Access the directory
+$ cd Podcastr
+
+# Install all dependencies
+$ yarn 
+# or
+$ npm install
+
+# Run the application in dev mode
+$ yarn dev
+# or
+$ npm run dev
+
+# The application start in http://localhost:3000
+```
+
+<!--
 
 ## Development tips :rocket:
 
@@ -29,6 +59,8 @@
 - Deploy
 
 - Electron (Desktop)
+
+-->
 
 
 ## :memo: License
