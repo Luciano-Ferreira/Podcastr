@@ -22,13 +22,14 @@
 
 - PWA (next-pwa)
 
-- Dark teme
+- Dark theme
 
 - Log in
 
 - Deploy
 
 - Electron (Desktop)
+<<<<<<< HEAD
 
 
 ## :memo: License
@@ -37,3 +38,8 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Luci
 ---
 
 Made with ♥ by Luciano Silva :wave: [Get in touch!](https://www.linkedin.com/in/lucianof-silva/)
+=======
+<!--
+  [how to deploy](https://www.notion.so/Deploy-Podcastr-2142f78ad75c4b32b2e4dc9e22c46189)
+-->
+>>>>>>> fb808e96fd3cb604d17389010579d66ab3fa34a3
