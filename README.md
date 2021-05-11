@@ -22,7 +22,7 @@
 
 - PWA (next-pwa)
 
-- Dark teme
+- Dark theme
 
 - Log in
 
@@ -32,7 +32,7 @@
 
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Podcastr/blob/main/LICENSE) for more information.
 
 ---
 
