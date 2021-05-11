@@ -4,7 +4,7 @@
 
 - PWA (next-pwa)
 
-- Dark teme
+- Dark theme
 
 - Log in
 
