@@ -7,8 +7,6 @@
   <img src="./github/podcastr.gif" alt="demo-web" height="425" width="100%">
 </div>
 
-[Preview](https://moveitnextjs-rho.vercel.app/)
-
 
 ## Technology used :rocket:
 
