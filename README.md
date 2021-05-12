@@ -4,7 +4,7 @@
 
 ---
 <div align="center" >
-  <img src="./github/podcastr.gif" alt="demo-web" height="425" width="100%">
+  <img src="./github/podcastr.gif" alt="demo-web" height="450" width="100%">
 </div>
 
 Moveit is an application that plays audio that comes from an API
