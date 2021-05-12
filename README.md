@@ -23,13 +23,13 @@ Moveit is an application that plays audio that comes from an API
 - [vercel](https://vercel.com/dashboard)
 - [my-json-server-fake-api](https://my-json-server.typicode.com/luciano-ferreira/podcastr/)
 
-## How to install ❓
+## ❓ How to install
 
 ### Prerequisites
 
 Before you begin, you will need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and a package manager [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/). 
 
-### Run aplication ⏯️
+### ⏯️ Run aplication
 In your terminal or bash
 
 ```bash
