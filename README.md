@@ -2,6 +2,14 @@
   <img src="./public/logo.svg" alt="Podcastr">
 </div>
 
+---
+<div align="center" >
+  <img src="./github/podcastr.gif" alt="demo-web" height="425" width="100%">
+</div>
+
+[Preview](https://moveitnextjs-rho.vercel.app/)
+
+
 ## Technology used :rocket:
 
 - [axios](https://github.com/axios/axios)
