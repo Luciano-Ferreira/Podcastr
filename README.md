@@ -7,6 +7,8 @@
   <img src="./github/podcastr.gif" alt="demo-web" height="425" width="100%">
 </div>
 
+Moveit is an application that plays audio that comes from an API
+
 
 ## Technology used :rocket:
 
